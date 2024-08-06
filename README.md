@@ -12,7 +12,7 @@ As a frontend engineer, the web is still a thriving ecosystem and I want to cont
 
 If I'm the one you're looking for, do not hesitate to contact me.
 
-📬 castle2668@gmail.com
+- Email: castle2668@gmail.com
 
 ## Summary
 

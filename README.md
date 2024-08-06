@@ -3,7 +3,9 @@
 🏡 Tainan, Taiwan
 
 4 years in web development, from startups to big corporations.
+
 Not just focused on React, Vue, and Next.js. I have a solid understanding of web browsers, JavaScript, and the ability to adapt to any web application.
+
 As a frontend engineer, the web is still a thriving ecosystem and I want to contribute to the world more alongside talented people.
 
 - Blog: [https://www.seanhuang.dev](https://www.seanhuang.dev)
